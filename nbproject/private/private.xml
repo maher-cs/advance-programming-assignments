@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/hotel/models/Hotel.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>30</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/mapvsnp/NetBeansProjects/Hotel/src/hotel/models/User.java</file>
+            <file>file:/home/mapvsnp/NetBeansProjects/Hotel/src/hotel/ui/rooms/addroom/AddRoomController.java</file>
+            <file>file:/home/mapvsnp/NetBeansProjects/Hotel/src/hotel/Hotel.java</file>
+            <file>file:/home/mapvsnp/NetBeansProjects/Hotel/src/hotel/ui/rooms/roomsmanage/RoomsManageController.java</file>
+            <file>file:/home/mapvsnp/NetBeansProjects/Hotel/src/hotel/services/DB.java</file>
+            <file>file:/home/mapvsnp/NetBeansProjects/Hotel/src/hotel/types/TRoom.java</file>
+            <file>file:/home/mapvsnp/NetBeansProjects/Hotel/src/assets/styles/global.css</file>
+            <file>file:/home/mapvsnp/NetBeansProjects/Hotel/src/hotel/models/Room.java</file>
+        </group>
+    </open-files>
+</project-private>

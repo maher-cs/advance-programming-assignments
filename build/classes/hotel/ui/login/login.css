@@ -1,0 +1,15 @@
+.mainFxmlClass {
+    -fx-background-color: #ffffff;
+}
+
+JFXButton {
+    -fx-cursor: hand;
+}
+
+.login-error-msg {
+    -fx-text-fill: #af1313;
+    -fx-font-size: 24px;
+    -fx-background-color: rgba(255,100,100,.7);
+    -fx-padding: 25px;
+    -fx-border-radius: 20px;
+}

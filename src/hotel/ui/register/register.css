@@ -1,0 +1,23 @@
+.mainFxmlClass {
+    -fx-background-color: #ffffff;
+}
+
+JFXButton {
+    -fx-cursor: hand;
+}
+
+.button-raised{
+    -fx-padding: 0.7em 0.57em;
+    -fx-font-size: 14px;
+    -jfx-button-type: RAISED;
+    -fx-background-color: #486079;
+    -fx-text-fill: WHITE;
+}
+
+.register-error-msg {
+    -fx-text-fill: #af1313;
+    -fx-font-size: 24px;
+    -fx-background-color: rgba(255,100,100,.7);
+    -fx-padding: 25px;
+    -fx-border-radius: 20px;
+}

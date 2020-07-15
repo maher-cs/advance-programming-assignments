@@ -1,0 +1,13 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+
+.btn-small {
+    -fx-padding: 5px;
+    -fx-pref-width: 70px;
+    -fx-pref-height: 25px;
+}
